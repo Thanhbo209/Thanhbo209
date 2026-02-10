@@ -1,8 +1,7 @@
 # 💫 About Me:
-🚀 Full-stack Developer working on personal projects
-💻 Tech stack: Next.js, React.js, JavaScript, TypeScript
-🗄️ Databases: Supabase, MongoDB, PostgreSQL
-🎨 Styling: Tailwind CSS
+Passionate about building full-stack web applications.
+Experienced with Next.js, React.js, JavaScript, TypeScript, Supabase, MongoDB, PostgreSQL, and Tailwind CSS.
+Always learning and improving
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/phmthanh/)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thanhagar123@gmail.com) 
