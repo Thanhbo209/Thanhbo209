@@ -7,9 +7,7 @@ Place this file at: https://github.com/Thanhbo209/Thanhbo209/blob/main/README.md
 
 # Hi, I'm Pham Viet Thanh 👋
 
-### Software Engineering Student · Backend AI Engineering Intern · Full-Stack Builder
-
-I build backend-heavy products, AI-integrated workflows, and practical systems that turn messy real-world input into useful software.
+### Software Engineering Student · Backend AI Engineering Intern · Full-Stack Builde
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-thanhpham.vercel.app-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://thanhpham.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pham%20Thanh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phmthanh/)
@@ -173,27 +171,6 @@ I avoid fake "100% skill bars." This is a more honest snapshot of where I am cur
 - Testing discipline
 
 </details>
-
----
-
-## Contact
-
-<div align="center">
-
-<a href="https://thanhpham.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-thanhpham.vercel.app-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/phmthanh/">
-  <img src="https://img.shields.io/badge/LinkedIn-Pham%20Thanh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/Thanhbo209">
-  <img src="https://img.shields.io/badge/GitHub-@Thanhbo209-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:thanhagar123@gmail.com">
-  <img src="https://img.shields.io/badge/Email-thanhagar123%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
 
 ---
 
