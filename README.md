@@ -27,7 +27,6 @@ I am a Software Engineering student focused on the intersection of **backend eng
 Right now, I am building toward a long-term path as a **SWE + AI Engineer**: someone who can design APIs, model databases, ship user-facing products, and integrate AI pipelines responsibly instead of treating AI as magic.
 
 - 🎓 Bachelor of Software Engineering student
-- 💼 Backend AI Engineering Intern at **FlyRank AI**
 - 🧠 Building RAG pipelines, agents, REST APIs, data workflows, and AI-assisted backend systems
 - 🛠️ Comfortable across backend APIs, database design, React UIs, Docker, and CI/CD
 - 🔬 Interested in AI engineering, retrieval systems, computer vision, automation, and applied ML tooling
@@ -117,36 +116,11 @@ Right now, I am building toward a long-term path as a **SWE + AI Engineer**: som
 
 ---
 
-## Engineering Scorecard
-
-I avoid fake "100% skill bars." This is a more honest snapshot of where I am currently putting effort.
-
-| Area | Current confidence | Evidence |
-|---|---:|---|
-| Backend APIs | Strong | Node.js/Express, Spring Boot, FastAPI, JWT, REST APIs |
-| Full-stack integration | Solid | React, Next.js, Tailwind, API clients, deployment workflows |
-| Database design | Solid | PostgreSQL, MongoDB, Prisma, Mongoose, JPA/Hibernate |
-| AI-integrated products | Growing fast | RAG, agents, embeddings fallback, AI resume tooling |
-| Computer vision pipelines | Practical hands-on | YOLOv8, CVAT, OpenCV, annotation workflows |
-| Testing / CI / DevOps | Improving | GitHub Actions, Docker, Postman, CI/CD |
-| System design | Active growth area | Designing larger systems, background jobs, async workflows, production reliability |
-
----
-
 ## GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Thanhbo209&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanhbo209&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br />
-
 <img src="https://streak-stats.demolab.com?user=Thanhbo209&theme=tokyonight&hide_border=true" />
-
-<br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Thanhbo209&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
 
