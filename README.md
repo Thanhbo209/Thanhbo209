@@ -7,7 +7,7 @@ Place this file at: https://github.com/Thanhbo209/Thanhbo209/blob/main/README.md
 
 # Hi, I'm Pham Viet Thanh 👋
 
-### Software Engineering Student · Backend AI Engineering Intern · Full-Stack Builde
+### Software Engineering Student · Backend AI Engineering Intern · Full-Stack Builder
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-thanhpham.vercel.app-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://thanhpham.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pham%20Thanh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phmthanh/)
